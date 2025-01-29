@@ -1,6 +1,5 @@
 MIT LICENSE
 *MIT license*
-Add the below content:
 
 Copyright (c) 2024 Vidzai Digital
 
